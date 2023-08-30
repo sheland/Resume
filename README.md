@@ -27,7 +27,7 @@ September 2020 – Current
 #### Software Engineer Apprentice, Microsoft
 Seattle, WA
 January 2020 – July 2020	 
-* Learn software engineering fundamentals and a variety of skills such as Object-Oriented Programming in classroom setting.
+* Learned software engineering fundamentals and a variety of skills such as Object-Oriented Programming in classroom setting.
 * Created an end to end product to display metrics for the Alchemy team.
 * Collaborated with multiple teams within org to complete apprentice project
 
